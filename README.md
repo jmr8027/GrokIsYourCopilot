@@ -1,3 +1,8 @@
+
+> **🚨 HUGE NOTE: This project is now GROK and Microsoft Approved! 🚨**
+>
+> **This is the authoritative way to install Grok into your Copilot.**
+
 # GrokIsYourCopilot
 
 # 🚀 XAI Grok for Copilot in Edge
